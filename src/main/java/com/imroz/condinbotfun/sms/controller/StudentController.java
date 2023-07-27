@@ -13,7 +13,6 @@ import com.imroz.condinbotfun.sms.service.StudentService;
 public class StudentController {
 	
 	private StudentService studentService;
-
 	public StudentController(StudentService studentService) {
 		super();
 		this.studentService = studentService;
