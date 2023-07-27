@@ -1,1 +1,1 @@
-# My_Peronal_Project
+# My_Personal_Project
